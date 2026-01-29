@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# alicealuguel
 =======
 # 🎀 Clara Aluguel - Sistema de Gestão Completo
 
