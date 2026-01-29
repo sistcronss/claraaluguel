@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # 🎀 Clara Aluguel - Sistema de Gestão Completo
 
