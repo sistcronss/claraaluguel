@@ -1,4 +1,3 @@
-=======
 # 🎀 Clara Aluguel - Sistema de Gestão Completo
 
 > **Sistema Web Profissional** para gerenciar loja de aluguel e venda de roupas, vestidos, ternos, bolsas e acessórios.
